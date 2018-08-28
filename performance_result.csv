@@ -1,0 +1,4 @@
+Products,Firewall Throughput ,VPN Throughput ,AV Throughput ,IPS Throughput ,UTM Throughput ,Concurrent Sessions* 
+M570,26.6 Gbps,5.8 Gbps,5.4 Gbps,8 Gbps,4.4 Gbps,"8,300,000"
+M270,4.9 Gbps,1.6 Gbps,2.1 Gbps,2.3 Gbps,1.6 Gbps,"2,000,000"
+M440,6.7 Gbps,3.2 Gbps,2.2 Gbps,2.2 Gbps,1.6 Gbps,"4,000,000"
